@@ -1,0 +1,7 @@
+.addButtonContainer {
+    background-color: #1976d2;
+    position: absolute;
+    right: 24px;
+    bottom: 24px;
+    border-radius: 100%;
+}
